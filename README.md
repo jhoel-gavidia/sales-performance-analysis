@@ -136,5 +136,3 @@ Los resultados representan asociaciones agregadas. No demuestran, por sí solos,
 ## 10. Consideraciones
 
 La moneda y el contexto comercial del conjunto de datos deben confirmarse antes de interpretar los importes como una moneda específica. Los resultados y conclusiones deben contrastarse con las consultas y los filtros aplicados en cada herramienta.
-
-Este proyecto tiene fines de aprendizaje.
